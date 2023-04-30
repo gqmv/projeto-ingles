@@ -1,2 +1,4 @@
 fastbook
+fastai
 voila
+ipywidgets
