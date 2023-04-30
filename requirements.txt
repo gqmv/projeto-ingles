@@ -1,4 +1,6 @@
-fastbook
+-f https://download.pytorch.org/whl/torch_stable.html
+torch
+torchvision
 fastai
 voila
 ipywidgets
