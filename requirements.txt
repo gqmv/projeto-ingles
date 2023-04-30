@@ -1,7 +1,7 @@
 --find-links "https://download.pytorch.org/whl/torch_stable.html"
 torch==2.0.0+cpu
 --find-links "https://download.pytorch.org/whl/torch_stable.html"
-torchvision==0.9+cpu
+torchvision==0.15.0+cpu
 fastai
 voila
 ipywidgets
