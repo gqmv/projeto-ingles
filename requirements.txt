@@ -1,7 +1,7 @@
 --find-links "https://download.pytorch.org/whl/torch/"
-torch==1.8.1+cpu
+torch==2.0.0+cpu
 --find-links "https://download.pytorch.org/whl/torchvision/"
-torchvision==0.9.1+cpu
+torchvision==0.15.0+cpu
 fastai
 voila
 ipywidgets==7.6.3
