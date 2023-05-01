@@ -1,6 +1,6 @@
---find-links "https://download.pytorch.org/whl/cpu"
+--find-links "https://download.pytorch.org/whl/torch/"
 torch==1.8.1+cpu
---find-links "https://download.pytorch.org/whl/cpu"
+--find-links "https://download.pytorch.org/whl/torchvision/"
 torchvision==0.9.1+cpu
 fastai
 voila
